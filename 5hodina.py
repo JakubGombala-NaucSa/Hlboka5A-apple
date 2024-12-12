@@ -8,6 +8,8 @@ platno.pack()
 
 lopticky = []
 
+a = tk.PhotoImage(file="Apple.png")
 def vytvor_lopticky():
     for i in range(10):
+        return
         
